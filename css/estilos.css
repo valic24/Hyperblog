@@ -2,19 +2,6 @@ body
 {
     color:#333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
-}
-#container
-{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-=======
     font-family: "Arial";
     font-size: 16 px;
     margin: 0;
@@ -44,18 +31,10 @@ body
     padding: 0;
     text-align: left;
     border: 1px solid #ddd;
->>>>>>> cabecera
     margin: 0 auto;
 }
 
 #container h1
 {
-<<<<<<< HEAD
     font-size: 20px;
 }
-=======
-    font-size: 20px
-}
-
-#
->>>>>>> cabecera
